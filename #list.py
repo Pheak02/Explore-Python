@@ -37,5 +37,10 @@ list.pop() #we can't pop from an empty list
 print(list)
 
 
+#check whether element is in hte list
+print(Friends.index("dalin"))
+print(Friends.index("Mike"))
+
+
 
 
