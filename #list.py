@@ -36,15 +36,10 @@ list=["sopheak", "many", "mony", "dalin", "dano", "dano"]
 list.pop() #we can't pop from an empty list
 print(list)
 
+#check whether element is in hte list
+# print(Friends.index("dalin"))
+print(Friends.index("Mike"))
+
 #count how many time the element show up insid the list.
 print(Friends.count("dano"))
-
-
-
-#check whether element is in hte list
-print(Friends.index("dalin"))
-# print(Friends.index("Mike"))
-
-
-
 
