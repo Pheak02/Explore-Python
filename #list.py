@@ -8,8 +8,12 @@ print(Friends[-1]) # print from right to left, index start with -1
 print(Friends[1:]) #will output the element from 1
 print(Friends[1:3]) #will output from index 1 until 2
 
-#extend the list
+#add two lists
 numbers =[2,5,7,4,2]
 Friends =["sopheak", "many", "mony", "dalin", "dano"]
-Friends.extend(numbers)
+Friends.extend(numbers) #add two list together
+print(Friends)
+
+#append the lists
+Friends.append("Vireak")
 print(Friends)
