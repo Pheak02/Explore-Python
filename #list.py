@@ -27,5 +27,9 @@ print(Friends)
 Friends.remove("dano")
 print(Friends)
 
+#remove everything from the list
+Friends.clear()
+print(Friends)
+
 
 
