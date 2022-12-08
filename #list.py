@@ -1,4 +1,5 @@
 #list
+#rule: should run it one step at a time
 Friends =["sopheak", "many", "mony", "dalin", "dano"]
 #print all
 print(Friends)
@@ -17,3 +18,10 @@ print(Friends)
 #append the lists
 Friends.append("Vireak")
 print(Friends)
+
+#insert inside the list
+Friends.insert(3,"MOLIKA")
+print(Friends)
+
+
+
