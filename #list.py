@@ -23,5 +23,9 @@ print(Friends)
 Friends.insert(3,"MOLIKA")
 print(Friends)
 
+#remove any element
+Friends.remove("Dano")
+print(Friends)
+
 
 
