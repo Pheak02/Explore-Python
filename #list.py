@@ -37,9 +37,9 @@ list.pop() #we can't pop from an empty list
 print(list)
 
 #check whether element is in hte list
-# print(Friends.index("dalin"))
-print(Friends.index("Mike"))
+print(list.index("mony")) #show the element according to its index
+# print(Friends.index("Mike"))
 
 #count how many time the element show up insid the list.
-print(Friends.count("dano"))
+print(list.count("dano"))
 
