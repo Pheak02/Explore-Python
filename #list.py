@@ -31,5 +31,11 @@ print(Friends)
 Friends.clear()
 print(Friends)
 
+#POP the element, to get rid of the last element inside the list
+list=["sopheak", "many", "mony", "dalin", "dano"]
+list.pop() #we can't pop from an empty list
+print(list)
+
+
 
 
