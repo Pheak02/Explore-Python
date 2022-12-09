@@ -32,7 +32,7 @@ Friends.clear()
 print(Friends)
 
 #POP the element, to get rid of the last element inside the list
-list=["sopheak", "many", "mony", "dalin", "dano", "dano"]
+list=["sopheak", "many", "mony", "dalin", "dano", "dano","dano"]
 list.pop() #we can't pop from an empty list
 print(list)
 
@@ -42,4 +42,11 @@ print(list.index("mony")) #show the element according to its index
 
 #count how many time the element show up insid the list.
 print(list.count("dano"))
+
+#short the list in ascending order, by the num or the alphabet
+list.sort()
+print(list)
+
+#reverse the list
+
 
