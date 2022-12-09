@@ -51,4 +51,7 @@ print(list)
 list.reverse()
 print(list)
 
+#copy the list
+list2 = list.copy()
+
 
