@@ -1,2 +1,4 @@
 coordinates = (4,5)
+#set value equal to sth else
+coordinates[1]=10
 print(coordinates[1])
