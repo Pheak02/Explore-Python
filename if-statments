@@ -1,5 +1,5 @@
-IsMale = True
-IsTall= False
+IsMale = False
+IsTall= True
 
 if IsMale and IsTall:
     print("you are a tall male")
