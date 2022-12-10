@@ -2,3 +2,9 @@ def SayHi(name, age):
     print("Hello", name,"you are", str(age))
          #convert age into string
 SayHi("Mike", 35)      
+
+
+#return statement
+def cube(num):
+    return num*num*num
+print(cube(3))
