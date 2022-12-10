@@ -1,4 +1,4 @@
-monthConversions:{
+monthConversions={
     "Jan": "January",
     "Feb": "Febuary",
     "Mar": "March",
@@ -13,3 +13,5 @@ monthConversions:{
     "Dec": "December",
 
 }
+
+print(monthConversions["Nov"])
