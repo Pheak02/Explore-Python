@@ -1,3 +1,3 @@
-def SayHi(name): 
-    print("Hello"+ name)
-SayHi("Mike")    
+def SayHi(name, age): 
+    print("Hello"+  name + "you are" + age)
+SayHi("Mike", "35")      
