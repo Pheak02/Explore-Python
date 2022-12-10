@@ -1,3 +1,4 @@
 def SayHi(name, age): 
-    print("Hello", name,"you are", age)
-SayHi("Mike", "35")      
+    print("Hello", name,"you are", str(age))
+         #convert age into string
+SayHi("Mike", 35)      
