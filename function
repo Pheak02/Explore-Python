@@ -1,3 +1,3 @@
 def SayHi(name, age): 
-    print("Hello"+  name + "you are" + age)
+    print("Hello", name,"you are", age)
 SayHi("Mike", "35")      
